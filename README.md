@@ -12,9 +12,6 @@ The project consists of small logic programs written in Prolog language.
 * [**Range product:**](#range-product) calculates the product of all numbers within a specified range
 * [**Romeo and Juliette:**](#romeo-and-juliette) gives the answers based on facts and rules
 
-## About implementation
-Prolog is a high-level programming language specifically designed for symbolic and logical reasoning. Its name is derived from "PROgramming in LOGic." Prolog operates based on a formal system of rules and facts, utilizing a declarative programming paradigm centered around logical relations and inference rules.
-
 ## How to execute
 Use SWI-Prolog, available at https://www.swi-prolog.org, to execute the program. Follow these steps:
 
